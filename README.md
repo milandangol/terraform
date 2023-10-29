@@ -10,8 +10,6 @@ The `ec2_instances` directory contains Terraform configurations for creating and
 
 The `static_web_in_s3` directory contains Terraform configurations for setting up a static website hosted in an Amazon S3 bucket. This is a common approach for hosting simple websites or web applications.
 
-To use the static website configurations:
-
 ## Prerequisites
 
 Before using these Terraform configurations, make sure you have the following prerequisites:
